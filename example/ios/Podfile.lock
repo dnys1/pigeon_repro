@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - pigeon_repro (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - pigeon_repro (from `.symlinks/plugins/pigeon_repro/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  pigeon_repro:
+    :path: ".symlinks/plugins/pigeon_repro/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  pigeon_repro: 72619db271da92a78d989fa6aa3dce846d4eea42
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.12.1
